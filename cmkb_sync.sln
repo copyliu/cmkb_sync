@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cmkb_sync", "cmkb_sync\cmkb_sync.csproj", "{E284F3F9-5B71-48DE-AB09-15776AA1236E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E284F3F9-5B71-48DE-AB09-15776AA1236E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E284F3F9-5B71-48DE-AB09-15776AA1236E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E284F3F9-5B71-48DE-AB09-15776AA1236E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E284F3F9-5B71-48DE-AB09-15776AA1236E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37C10C9D-65AC-4E5E-B8D7-4CB85949A15C}
+	EndGlobalSection
+EndGlobal
